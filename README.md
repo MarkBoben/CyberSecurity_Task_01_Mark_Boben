@@ -143,7 +143,7 @@ Unauthorized access, disclosure, or theft of sensitive or protected information.
 
 A public-facing cyber security awareness poster was designed to reinforce password best practices for a general audience, intended for display at a corporate training workshop.
 
-![Strong Passwords Matter awareness poster](./AWARENESS_POSTER.png)
+![Strong Passwords Matter awareness poster](./AWARENESS POSTER.png)
 
 The poster covers the workshop title, date, venue, and RSVP details, using a dark tech-themed design with a circuit-pattern padlock graphic to visually reinforce the security theme.
 
