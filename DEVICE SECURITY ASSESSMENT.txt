@@ -1,0 +1,34 @@
+DEVICE SECURITY ASSESSMENT
+
+System Information
+
+Operating System: Kali GNU/Linux Rolling
+OS Version: 2026.2
+Kernel Version: Linux 6.19.14+kali-amd64
+Architecture: x86_64
+
+Security Assessment
+
+System Updated: No
+Evidence: The command "apt list --upgradable" showed 67 packages available for upgrade.
+
+Antivirus Installed: Yes
+Antivirus Software: ClamAV
+Evidence: The command "dpkg -l | grep clamav" confirmed that ClamAV, ClamAV-Base, and ClamAV-Freshclam are installed.
+
+Firewall Enabled: Yes
+Firewall Type: iptables
+Evidence: The command "sudo iptables -L" displayed active INPUT, FORWARD, and OUTPUT chains.
+
+Assessment Summary
+
+The system is running Kali GNU/Linux Rolling version 2026.2 on a 64-bit architecture. ClamAV antivirus software is installed to help detect and remove malicious software. The system firewall is enabled through iptables, providing network traffic filtering and basic protection against unauthorized access. However, the system is not fully updated, as multiple software packages are available for upgrade. Applying these updates would improve system security by addressing known vulnerabilities and ensuring the latest security patches are installed.
+
+Commands Used
+
+hostnamectl
+cat /etc/os-release
+sudo apt update
+apt list --upgradable
+dpkg -l | grep clamav
+sudo iptables -L

@@ -1,0 +1,30 @@
+ACCOUNT SECURITY REVIEW
+
+Account 1: Google
+
+MFA Enabled: Yes
+Strong Password: Yes
+Recovery Email/Method Configured: Yes
+
+Account 2: LinkedIn
+
+MFA Enabled: No
+Strong Password: Yes
+Recovery Email/Method Configured: Yes
+
+Account 3: GitHub
+
+MFA Enabled: No
+Strong Password: Yes
+Recovery Email/Method Configured: Yes
+
+
+Security Analysis
+
+Google has the strongest security configuration because Multi-Factor Authentication (2-Step Verification) is enabled and recovery options are configured.
+
+LinkedIn uses a strong password and recovery method, but Multi-Factor Authentication is disabled.
+
+GitHub has a strong password and verified email configured, but Multi-Factor Authentication is disabled.
+
+To improve security, Multi-Factor Authentication should be enabled on LinkedIn and GitHub. This will provide an additional layer of protection against unauthorized access.

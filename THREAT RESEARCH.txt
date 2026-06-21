@@ -1,0 +1,90 @@
+THREAT RESEARCH
+
+1. PHISHING
+
+Definition:
+Phishing is a cyberattack in which attackers impersonate trusted organizations or individuals to trick users into revealing sensitive information such as usernames, passwords, banking details, or personal data.
+
+Real-World Example:
+Attackers often send fake emails pretending to be from Google, banks, or online services asking users to verify their accounts through malicious links.
+
+Prevention Methods:
+- Verify the sender before responding.
+- Avoid clicking suspicious links.
+- Check website URLs carefully.
+- Enable Multi-Factor Authentication (MFA).
+- Use spam filters and antivirus software.
+
+--------------------------------------------------
+
+2. MALWARE
+
+Definition:
+Malware refers to any software intentionally designed to damage, disrupt, steal data from, or gain unauthorized access to computer systems.
+
+Real-World Example:
+The ILOVEYOU malware infected millions of computers worldwide by spreading through email attachments and causing significant damage.
+
+Prevention Methods:
+- Install and update antivirus software.
+- Download software only from trusted sources.
+- Keep operating systems updated.
+- Avoid opening suspicious attachments.
+- Perform regular security scans.
+
+--------------------------------------------------
+
+3. RANSOMWARE
+
+Definition:
+Ransomware is a type of malware that encrypts files or locks systems and demands payment from victims to restore access.
+
+Real-World Example:
+The WannaCry ransomware attack in 2017 affected hospitals, businesses, and government organizations in over 150 countries.
+
+Prevention Methods:
+- Regularly back up important files.
+- Keep software and operating systems updated.
+- Avoid suspicious email attachments.
+- Use antivirus and endpoint protection software.
+- Enable Multi-Factor Authentication.
+
+--------------------------------------------------
+
+4. SOCIAL ENGINEERING
+
+Definition:
+Social engineering is the psychological manipulation of people into revealing confidential information or performing actions that compromise security.
+
+Real-World Example:
+An attacker may impersonate a company employee or IT support technician and convince a victim to disclose login credentials.
+
+Prevention Methods:
+- Verify identities before sharing information.
+- Be cautious of urgent requests.
+- Follow organizational security policies.
+- Participate in cybersecurity awareness training.
+- Never share passwords or sensitive information.
+
+--------------------------------------------------
+
+5. DATA BREACH
+
+Definition:
+A data breach occurs when sensitive, confidential, or protected information is accessed, disclosed, or stolen without authorization.
+
+Real-World Example:
+The Equifax data breach exposed the personal information of approximately 147 million individuals due to an unpatched software vulnerability.
+
+Prevention Methods:
+- Use strong and unique passwords.
+- Enable Multi-Factor Authentication.
+- Encrypt sensitive information.
+- Apply security updates regularly.
+- Monitor accounts for suspicious activity.
+
+--------------------------------------------------
+
+CONCLUSION
+
+Cyber threats continue to evolve and pose serious risks to individuals and organizations. Understanding threats such as phishing, malware, ransomware, social engineering, and data breaches helps users recognize potential dangers and take appropriate preventive measures. Following cybersecurity best practices, maintaining updated systems, and practicing good cyber hygiene can significantly reduce the risk of becoming a victim of cyberattacks.
