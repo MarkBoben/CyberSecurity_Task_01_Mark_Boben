@@ -171,3 +171,6 @@ Cyber security is foundational to how people communicate, bank, learn, and work 
 - Device hardening is an ongoing process: antivirus and firewall protection mean little if the system itself is running outdated, vulnerable packages.
 - The same five threat categories (phishing, malware, ransomware, social engineering, data breaches) recur across most real-world incidents, reinforcing the value of recognizing patterns rather than memorizing isolated cases.
 - Awareness materials like the Part E poster translate technical findings into a format non-technical audiences can act on.
+
+---
+Submitted as part of White Band Associates IT Internship Program
